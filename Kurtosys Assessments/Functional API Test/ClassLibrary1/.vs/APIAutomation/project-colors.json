@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "12dc9c49-092e-4980-93a4-a301b0c2d223": {
+      "ProjectGuid": "12dc9c49-092e-4980-93a4-a301b0c2d223",
+      "DisplayName": "APITests",
+      "ColorIndex": 0
+    },
+    "b712c5f8-30a9-41f0-9646-07eeed58e7a7": {
+      "ProjectGuid": "b712c5f8-30a9-41f0-9646-07eeed58e7a7",
+      "DisplayName": "APIAutomationDemo",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
